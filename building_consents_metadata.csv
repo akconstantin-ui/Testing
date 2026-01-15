@@ -1,0 +1,17 @@
+Data Item Description,Series Type,Series ID,Series Start,Series End,No. Obs.,Building Type,Sector
+Total number of dwelling units ;  Victoria ;  Houses ;  Private Sector ;,Original,A418540L,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Houses,Private Sector
+Total number of dwelling units ;  Victoria ;  Houses ;  Total Sectors ;,Original,A418596X,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Houses,Total Sectors
+Total number of dwelling units ;  Victoria ;  Dwellings excluding houses ;  Private Sector ;,Original,A421386K,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Dwellings excluding houses,Private Sector
+Total number of dwelling units ;  Victoria ;  Dwellings excluding houses ;  Total Sectors ;,Original,A421445X,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Dwellings excluding houses,Total Sectors
+Total number of dwelling units ;  Victoria ;  Total (Type of Building) ;  Private Sector ;,Original,A422202X,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Total (Type of Building),Private Sector
+Total number of dwelling units ;  Victoria ;  Total (Type of Building) ;  Total Sectors ;,Original,A422266K,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Total (Type of Building),Total Sectors
+Total number of dwelling units ;  Victoria ;  Houses ;  Private Sector ;,Seasonally Adjusted,A418543V,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Houses,Private Sector
+Total number of dwelling units ;  Victoria ;  Houses ;  Total Sectors ;,Seasonally Adjusted,A418599F,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Houses,Total Sectors
+Total number of dwelling units ;  Victoria ;  Total (Type of Building) ;  Private Sector ;,Seasonally Adjusted,A422208L,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Total (Type of Building),Private Sector
+Total number of dwelling units ;  Victoria ;  Total (Type of Building) ;  Total Sectors ;,Seasonally Adjusted,A422272F,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Total (Type of Building),Total Sectors
+Total number of dwelling units ;  Victoria ;  Houses ;  Private Sector ;,Trend,A418544W,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Houses,Private Sector
+Total number of dwelling units ;  Victoria ;  Houses ;  Total Sectors ;,Trend,A418600C,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Houses,Total Sectors
+Total number of dwelling units ;  Victoria ;  Dwellings excluding houses ;  Private Sector ;,Trend,A421392F,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Dwellings excluding houses,Private Sector
+Total number of dwelling units ;  Victoria ;  Dwellings excluding houses ;  Total Sectors ;,Trend,A421451V,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Dwellings excluding houses,Total Sectors
+Total number of dwelling units ;  Victoria ;  Total (Type of Building) ;  Private Sector ;,Trend,A422209R,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Total (Type of Building),Private Sector
+Total number of dwelling units ;  Victoria ;  Total (Type of Building) ;  Total Sectors ;,Trend,A422274K,1983-07-01 00:00:00,2025-11-01 00:00:00,509,Total (Type of Building),Total Sectors
